@@ -14,7 +14,7 @@ Enter the Super Hero GIT from the wonderful World of Version Control!
 By now you have heard of GIT, or git or github even. All about the git you could say.  Although there are many version control systems to choose from we will focus
 our discussion on the version control system (super hero) "GIT". Some others to try are Bitbucket.org/Mercurial and SVN. Check those out after this! 
 
-Now, by now you should now why you would want to use a version control system so we will talk about GIT, as it is one of the most popular at the time of this writing.
+By now you should know why you would want to use a version control system, so we will talk about GIT, as it is one of the most popular at the time of this writing.
 Enters our super hero GIT --> I have powers!!
 
 Let's talk about these "powers" (functions/commands)!
